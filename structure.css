@@ -1,0 +1,68 @@
+.navbar-brand 
+{
+    font-family: 'Berkshire Swash', cursive;
+    
+}
+
+.container
+{
+    height: 300px;
+}
+.slide
+{
+    width: 100%;
+    background-color:gray;
+    height: 300px;
+}
+
+
+.carousel-caption
+{
+    position: absolute;
+    top: 40px !important;
+    left:200px !important;  
+
+}
+.carousel-caption p
+{
+ text-align: left;
+
+}
+
+.cards
+{
+    margin-top: 100px !important;
+    margin-left:50px !important; 
+    padding: 0 80px !important;
+}
+
+.card img
+{
+    margin: 0 auto;
+}
+
+.border
+{
+    border-bottom: 1px solid gray;
+    width: 100%;
+    
+}
+
+.box
+{
+    width: 250px;
+    height: 250px;
+    background: gray;
+    margin-top: 50px;
+}
+
+.data
+{
+    margin: 50px;
+}
+
+.container
+{
+    margin: 0 auto;
+}
+
